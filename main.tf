@@ -1,4 +1,5 @@
 #this file consists of code for instances and sg
+
 provider "aws" {
 region = "us-east-1"
 access_key = "AKIA2ZU6STSYR52KP2T3"
